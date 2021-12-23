@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#"><img width="50%" height="50%" src="https://www.nicepng.com/png/detail/266-2666972_software-developer.png"/></a>
+    <a href="#"><img width="25%" height="25%" src="https://www.nicepng.com/png/detail/266-2666972_software-developer.png"/></a>
 </p>
 
 <h1 align="center">Hola, This is Prajjwal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
