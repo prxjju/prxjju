@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[Real Time Sign Language Recognition](https://github.com/AlankarSaxena2712/Real-Time-Sign-Language-Recognition)**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Web and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
