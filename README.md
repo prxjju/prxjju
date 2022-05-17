@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">Hola, This is Prajjwal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center"> I am a Computer Science Engineering undergrad c/o 2022. I like Python Programming and Machine Learning.</h3>
+<h3 align="center"> Upcoming SDE at Ecom Express and undergrad c/o 2022</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m an upcoming Software Developer at **Ecom Express**
+- 🔭 I like **Python programming, web and ML**
 
 - 🌱 I’m currently learning **Web using Django**
 
