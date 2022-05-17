@@ -8,11 +8,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Real Time Sign Language Recognition](https://github.com/AlankarSaxena2712/Real-Time-Sign-Language-Recognition)**
+- 🔭 I’m an upcoming Software Developer at **Ecom Express**
 
-- 🌱 I’m currently learning **Web and Machine Learning**
+- 🌱 I’m currently learning **Web using Django**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Django related projects**
 
 - 📫 How to reach me **pmaurya6jun@gmail.com**
 
