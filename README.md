@@ -3,20 +3,20 @@
 </p>
 
 <h1 align="center">Hola, This is Prajjwal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center"> Upcoming SDE at Ecom Express and undergrad c/o 2022</h3>
+<h3 align="center"> SDE(Trainee) at Ecom Express and undergrad c/o 2022</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I like **Python programming, web and ML**
+- 🔭 I like **Python programming, Java and ML**
 
-- 🌱 I’m currently learning **Web using Django**
+- 🌱 I’m currently learning **Springboot**
 
-- 👯 I’m looking to collaborate on **Django related projects**
+- 👯 I’m looking to collaborate on **Springboot backend projects**
 
 - 📫 How to reach me **pmaurya6jun@gmail.com**
 
-- ⚡ Fun fact **I am not on Instagram**
+- ⚡ Fun fact **I am not on social media**
 
 ## 🚀 Languages and Tools:
 
