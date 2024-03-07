@@ -3,20 +3,20 @@
 </p>
 
 <h1 align="center">Hola, This is Prajjwal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center"> SDE(Trainee) at Ecom Express and undergrad c/o 2022</h3>
+<h3 align="center"> Software Engineer at Ecom Express</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I like **Python programming, Java and ML**
+- 🔭 I like **Java, Backend development**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **the perfect backend that does not exists**
 
 - 👯 I’m looking to collaborate on **Springboot backend projects**
 
 - 📫 How to reach me **pmaurya6jun@gmail.com**
 
-- ⚡ Fun fact **I am not on social media**
+- ⚡ Fun fact **I hate frontend**
 
 ## 🚀 Languages and Tools:
 
